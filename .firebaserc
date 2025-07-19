@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "smartbuss-8c1cb"
+  },
+  "targets": {
+    "smartbuss-8c1cb": {
+      "hosting": {
+        "buspassadmin": [
+          "buspassadmin"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
